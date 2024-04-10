@@ -1,0 +1,12 @@
+{
+  "main": "src/Server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/Server.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "mongoose": "^8.3.0"
+  }
+}
