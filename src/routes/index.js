@@ -1,8 +1,8 @@
 import express from "express"
-import { routerProducts} from "./productRoutes.js";
-import {routerProductDetails} from "./productDetailsRoutes.js"
+import  routerProducts from "./productsRoutes.js";
+import routerProductDetails from "./cartProductsRoutes.js"
 const router = express.Router()
 
 router.use('/products', routerProducts)
-router.use('/productDetails', routerProductDetails )
+router.use('/cartproducts', routerProductDetails)
 export default router
