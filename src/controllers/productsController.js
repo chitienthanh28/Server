@@ -21,15 +21,15 @@ export const getAll = async (req, res) => {
 
 export const getDetail = async (req, res) => {
   try {
-      const productne = await Product.findById(req.params.id);
-    if (!productne) {
+      const product = await Product.findById(req.params.id);
+    if (!product) {
       return res.status(404).json({
         message: "Không tìm thấy sản phẩm",
       });
     }
     return res.status(200).json({
       message: "Lấy sản phẩm thành công",
-      data: productne,
+      data: product,
     });
   } catch (error) {
     return res.status(500).json({

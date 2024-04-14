@@ -1,48 +1,212 @@
-{
-  "thumbnail": "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-llzpzbd7jg0v2e_tn",
-  "images": [
-    {
-      "name": "image1",
-      "src": "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-llzpzbd7jg0v2e_tn"
-    },
-    {
-      "name": "image2",
-      "src": "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lsjaulxbmnq1d1_tn"
-    },
-    {
-      "name": "image3",
-      "src": "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lsjaulxbl95l50_tn"
-    },
-    {
-      "name": "image4",
-      "src": "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lsjaulxbqvfde3_tn"
-    },
-    {
-      "name": "image5",
-      "src": "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lr5lt4ik66556e_tn"
-    },
-    {
-      "name": "image6",
-      "src": "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lsjaulxbo2ahe3_tn"
-    },
-    {
-      "name": "image7",
-      "src": "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lpj4vnipsw1h66_tn"
-    },
-    {
-      "name": "image8",
-      "src": "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lsjekt1lljtl42_tn"
-    }
-  ],
-  "title": "Áo Sơ Mi Nam Sadoga Dài Tay Trơn Màu Regular Fit chất liệu mềm mịn, thoáng mát, chất liệu chống nhăn",
-  "price": 379.0,
-  "colors": ["Đen", "Trắng", "Xanh", "Tím"],
-  "sizes": ["S", "M", "L", "XL"],
-  "selectColor": "",
-  "selectSize": "",
-  "isActiveColor": "",
-  "isActiveSize": "",
-  "isValidData": false,
-  "quantity": 1
-}
-
+[
+  {
+    "_id": "661a8e213a96c9efc4d7b416",
+    "title": "Tank Tops for Womans/Girls",
+    "price": 50,
+    "discountPercentage": 12.05,
+    "rating": 4.52,
+    "stock": "107",
+    "brand": "Soft Cotton",
+    "category": "tops",
+    "thumbnail": "https://cdn.dummyjson.com/product-images/37/thumbnail.jpg",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/37/1.jpg",
+      "https://cdn.dummyjson.com/product-images/37/2.jpg",
+      "https://cdn.dummyjson.com/product-images/37/3.jpg",
+      "https://cdn.dummyjson.com/product-images/37/4.jpg",
+      "https://cdn.dummyjson.com/product-images/37/thumbnail.jpg",
+      "https://deltasport.vn/wp-content/uploads/2023/08/TT035W1-ao-tanktop-nu-trang-279K-1.png",
+      "https://deltasport.vn/wp-content/uploads/2023/08/TT035W1-ao-tanktop-nu-hong-dau-279K-3-247x371.png"
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "661a8e213a96c9efc4d7b417",
+    "title": "Women Sweaters Wool",
+    "price": 600,
+    "discountPercentage": 17.2,
+    "rating": 4.55,
+    "stock": "55",
+    "brand": "Top Sweater",
+    "category": "tops",
+    "thumbnail": "https://cdn.dummyjson.com/product-images/39/thumbnail.jpg",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/39/1.jpg",
+      "https://cdn.dummyjson.com/product-images/39/2.jpg",
+      "https://cdn.dummyjson.com/product-images/39/3.jpg",
+      "https://cdn.dummyjson.com/product-images/39/4.jpg",
+      "https://cdn.dummyjson.com/product-images/39/thumbnail.jpg",
+      "https://bizweb.dktcdn.net/100/287/440/products/ao-sweater-oversize-nu-local-brand.jpg?v=1609341435057",
+      "https://bizweb.dktcdn.net/thumb/1024x1024/100/393/859/products/sg-11134201-22100-euhheim5l5iv37-1666859430695.jpg"
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "661a8e213a96c9efc4d7b41b",
+    "title": "printed high quality T shirts",
+    "price": 35,
+    "discountPercentage": 7.54,
+    "rating": 4.89,
+    "stock": "6",
+    "brand": "Vintage Apparel",
+    "category": "mens-shirts",
+    "thumbnail": "https://cdn.dummyjson.com/product-images/53/thumbnail.jpg",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/53/1.webp",
+      "https://cdn.dummyjson.com/product-images/53/2.jpg",
+      "https://cdn.dummyjson.com/product-images/53/3.jpg",
+      "https://cdn.dummyjson.com/product-images/53/4.jpg",
+      "https://cdn.dummyjson.com/product-images/53/thumbnail.jpg",
+      "https://teeguruji.com/cdn/shop/products/attitudetee02.jpg?v=1641726799&width=823",
+      "https://m.media-amazon.com/images/I/51sqQm7gSLL._AC_SX679_.jpg"
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "661a8e213a96c9efc4d7b41a",
+    "title": "FREE FIRE T Shirt",
+    "price": 10,
+    "discountPercentage": 14.72,
+    "rating": 4.52,
+    "stock": "128",
+    "brand": "FREE FIRE",
+    "category": "mens-shirts",
+    "thumbnail": "https://cdn.dummyjson.com/product-images/52/thumbnail.jpg",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/52/1.png",
+      "https://cdn.dummyjson.com/product-images/52/2.png",
+      "https://cdn.dummyjson.com/product-images/52/3.jpg",
+      "https://cdn.dummyjson.com/product-images/52/4.jpg",
+      "https://cdn.dummyjson.com/product-images/52/thumbnail.jpg",
+      "https://dorex.in/cdn/shop/products/freefire-skyblue_1024x1024@2x.jpg?v=1627376687",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmrV8voum1E61s9EHTr6thnezy3SDTuQGoiBoA55-0SQ&s"
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "661a8e213a96c9efc4d7b41c",
+    "title": "Pubg Printed Graphic T-Shirt",
+    "price": 46,
+    "discountPercentage": 16.44,
+    "rating": 4.62,
+    "stock": "136",
+    "brand": "The Warehouse",
+    "category": "mens-shirts",
+    "thumbnail": "https://cdn.dummyjson.com/product-images/54/thumbnail.jpg",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/54/1.jpg",
+      "https://cdn.dummyjson.com/product-images/54/2.jpg",
+      "https://cdn.dummyjson.com/product-images/54/3.jpg",
+      "https://cdn.dummyjson.com/product-images/54/4.jpg",
+      "https://cdn.dummyjson.com/product-images/54/thumbnail.jpg",
+      "https://m.media-amazon.com/images/I/5141ObrrQQL._AC_UY1100_.jpg",
+      "https://emea.merch.pubg.com/cdn/shop/products/PUBG-LOGO-16-100894-ASPHALT-MF_6e914b8c-a3d0-49c6-b3ea-9bee53fef1ad_533x.jpg?v=1697724095"
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "661a8e213a96c9efc4d7b41d",
+    "title": "Money Heist Printed Summer T Shirts",
+    "price": 66,
+    "discountPercentage": 15.97,
+    "rating": 4.9,
+    "stock": "122",
+    "brand": "The Warehouse",
+    "category": "mens-shirts",
+    "thumbnail": "https://cdn.dummyjson.com/product-images/55/thumbnail.jpg",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/55/1.jpg",
+      "https://cdn.dummyjson.com/product-images/55/2.webp",
+      "https://cdn.dummyjson.com/product-images/55/3.jpg",
+      "https://cdn.dummyjson.com/product-images/55/4.jpg",
+      "https://cdn.dummyjson.com/product-images/55/thumbnail.jpg",
+      "https://cdn.europosters.eu/image/750/fashion/money-heist-la-pandilla-xxl-i108416.jpg",
+      "https://i.etsystatic.com/19978099/r/il/c0d5a6/2287489084/il_570xN.2287489084_5oqo.jpg"
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "661a8e213a96c9efc4d7b41e",
+    "title": "Loafers for men",
+    "price": 47,
+    "discountPercentage": 10.91,
+    "rating": 4.91,
+    "stock": "20",
+    "brand": "Rubber",
+    "category": "mens-shoes",
+    "thumbnail": "https://cdn.dummyjson.com/product-images/57/thumbnail.jpg",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/57/1.jpg",
+      "https://cdn.dummyjson.com/product-images/57/2.jpg",
+      "https://cdn.dummyjson.com/product-images/57/3.jpg",
+      "https://cdn.dummyjson.com/product-images/57/4.jpg",
+      "https://cdn.dummyjson.com/product-images/57/thumbnail.jpg",
+      "https://attitudist.com/cdn/shop/files/Attitudist-Handcrafted-Glossy-Brown-Penny-Loafer-With-Double-Stitched-Welts-For-Men-MTOBSF-1694596462163.jpg?v=1694596464&width=2048",
+      "https://cms.brnstc.de/product_images/1122x1536_retina/cpro/media/images/product/23/6/100149772315000_0_1686646957525.jpg"
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "661a8e213a96c9efc4d7b41f",
+    "title": "formal offices shoes",
+    "price": 57,
+    "discountPercentage": 12,
+    "rating": 4.41,
+    "stock": "68",
+    "brand": "The Warehouse",
+    "category": "mens-shoes",
+    "thumbnail": "https://cdn.dummyjson.com/product-images/58/thumbnail.jpg",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/58/1.jpg",
+      "https://cdn.dummyjson.com/product-images/58/2.jpg",
+      "https://cdn.dummyjson.com/product-images/58/3.jpg",
+      "https://cdn.dummyjson.com/product-images/58/4.jpg",
+      "https://cdn.dummyjson.com/product-images/58/thumbnail.jpg",
+      "https://5.imimg.com/data5/FQ/FM/MY-38630640/office-formal-shoes.jpg",
+      "https://baccabucci.com/cdn/shop/products/03-_1_-min_7dee08e5-a3d6-4bf6-a1ab-b17fbbe476b7.jpg?v=1663314544"
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "661a8e213a96c9efc4d7b419",
+    "title": "half sleeves T shirts",
+    "price": 23,
+    "discountPercentage": 12.76,
+    "rating": 4.26,
+    "stock": "132",
+    "brand": "Vintage Apparel",
+    "category": "mens-shirts",
+    "thumbnail": "https://cdn.dummyjson.com/product-images/51/thumbnail.jpg",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/51/1.png",
+      "https://cdn.dummyjson.com/product-images/51/2.jpg",
+      "https://cdn.dummyjson.com/product-images/51/3.jpg",
+      "https://cdn.dummyjson.com/product-images/51/thumbnail.jpg",
+      "https://static.massimodutti.net/3/photos/2024/V/0/1/p/6823/540/251/6823540251_1_1_16.jpg?t=1693406213125&impolicy=massimodutti-itxmediumhigh&imwidth=500&imformat=chrome",
+      "https://marksandspencer.com.ph/cdn/shop/products/SD_03_T28_5381M_UT_X_EC_94.jpg?v=1674098797",
+      "https://cdn.4imprint.com/prod/extras/105233/360648/700/1.jpg"
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "661a8e213a96c9efc4d7b418",
+    "title": "Sneaker shoes",
+    "price": 120,
+    "discountPercentage": 10.37,
+    "rating": 4.19,
+    "stock": "50",
+    "brand": "Synthetic Leather",
+    "category": "womens-shoes",
+    "thumbnail": "https://cdn.dummyjson.com/product-images/47/thumbnail.jpeg",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/47/1.jpg",
+      "https://cdn.dummyjson.com/product-images/47/2.jpg",
+      "https://cdn.dummyjson.com/product-images/47/3.jpg",
+      "https://cdn.dummyjson.com/product-images/47/thumbnail.jpeg",
+      "https://product.hstatic.net/1000230642/product/hsw002900hog__10__5c14b4a55fff4006b8dc2ee7a661c674_large.jpg",
+      "https://bizweb.dktcdn.net/thumb/1024x1024/100/413/756/products/hp7870-02-1663497778174.jpg?v=1675313688563",
+      "https://bizweb.dktcdn.net/100/446/974/products/giay-mlb-bigball-chunky-a-new-york-yankees-beige-3ashc101n-50bgs-3.jpg?v=1644237883797"
+    ],
+    "__v": 0
+  }
+]
